@@ -35,6 +35,7 @@ namespace PaymentContext.Domain.Entities
         public string Address { get; private set; }
         public string Email { get; private set; }
     }
+}
 
 
 
